@@ -1,5 +1,7 @@
 # 🎮 Tic Tac Toe Game
 
+# Live Demo -- 
+
 A simple, fun, and interactive **Tic Tac Toe** game built using **HTML**, **CSS**, and **JavaScript**. Challenge your friends or practice solo with this responsive and minimalistic game interface.
 
 ---
@@ -15,11 +17,6 @@ A simple, fun, and interactive **Tic Tac Toe** game built using **HTML**, **CSS*
 
 ---
 
-## 🖼️ Preview
-
-![Tic Tac Toe Preview](./preview.png)
-
----
 
 ## 🚀 Getting Started
 
