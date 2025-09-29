@@ -5,7 +5,7 @@ let newGame = document.querySelector("#newGame");
 let count = 0;
 let turnO = true;
 
-const winPatterns =[
+const winPatterns =[ 
     [0,1,2],
     [3,4,5],
     [6,7,8],
@@ -95,3 +95,4 @@ const checkWinner = () => {
 
 reset.addEventListener("click",resetGame);
 newGame.addEventListener("click",resetGame);
+
