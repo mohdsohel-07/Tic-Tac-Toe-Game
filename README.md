@@ -6,7 +6,7 @@ A simple, fun, and interactive **Tic Tac Toe** game built using **HTML**, **CSS*
  
 ---
 
-## ✨ Features
+## ✨ Features 
 
 - 🎯 Two-player gameplay (Player X vs Player O)
 - 🧠 Automatic win detection
