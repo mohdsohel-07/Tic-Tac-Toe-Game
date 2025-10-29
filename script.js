@@ -97,3 +97,4 @@ reset.addEventListener("click",resetGame);
 newGame.addEventListener("click",resetGame);
 
 
+
